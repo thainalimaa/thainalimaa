@@ -1,5 +1,6 @@
+<div align="center">
 ### Olá! Eu sou a Thaina Lima 👋
-
+</div>
 
 <div align="center">
   <a href="https://github.com/thainalimaa">
