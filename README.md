@@ -25,7 +25,7 @@
     <a href = "https://github.com/thainalimaa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href = "mailto:thaina.matos0504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-    ![Snake animation](https://github.com/thainalimaa/thainalimaa/blob/output/github-contribution-grid-snake.svg)
+  
  
   </div>
 
